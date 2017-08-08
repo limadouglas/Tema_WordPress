@@ -1,2 +1,2 @@
 # Tema_WordPress
-Tema simples utilizando o framework Wordpress.
+Tema responsivo utilizando o framework Wordpress.
