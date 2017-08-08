@@ -1,2 +1,2 @@
-# Tema_WordPress
+# Tema WordPress
 Tema responsivo utilizando o framework Wordpress.
