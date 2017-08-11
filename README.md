@@ -1,5 +1,5 @@
-# Tema WordPress
-## Tema responsivo utilizando o Wordpress junto ao Bootstrap.
+
+# Tema responsivo utilizando o Wordpress junto ao Bootstrap.
 ### Plugins:
 - Mapa
 - Menu
